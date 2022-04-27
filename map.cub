@@ -1,4 +1,4 @@
-       C 70, 20, 150
+       C 40, 80, 150
            
 
 NO      ./textures/konoha.xpm        
@@ -7,7 +7,7 @@ SO ./textures/eye.xpm
 EA  ./textures/cloud.xpm    
 WE      ./textures/shuriken.xpm     
 
-F       20,     20, 20
+F       40,     40, 40
 
 
 
